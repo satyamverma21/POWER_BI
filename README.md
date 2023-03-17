@@ -1,5 +1,6 @@
 # POWER_BI
 
+LinkedIn :https://www.linkedin.com/posts/satyam-verma-linkdin_powerbi-excel-salesdashboard-activity-7041485046620270592-iL5w/
 Title: Sales Dashboard for a Global Superstore
 
 Objective:
